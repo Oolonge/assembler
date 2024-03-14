@@ -1,0 +1,2 @@
+MASM filename.asm
+link filename.obj 
